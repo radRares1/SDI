@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="lab9@localhost">
+  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.17">
+    <root id="1">
+      <ServerVersion>12.2</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="lab9">
+      <ObjectId>40961</ObjectId>
+      <Comment>movie/client/rentals db for lab9 sdi
+</Comment>
+      <Owner>postgres</Owner>
+      <Current>1</Current>
+    </database>
+    <database id="3" parent="1" name="movierental">
+      <ObjectId>16397</ObjectId>
+      <Owner>postgres</Owner>
+    </database>
+    <database id="4" parent="1" name="postgres">
+      <ObjectId>13318</ObjectId>
+      <Comment>default administrative connection database</Comment>
+      <Owner>postgres</Owner>
+    </database>
+    <database id="5" parent="1" name="test">
+      <ObjectId>16393</ObjectId>
+      <Owner>postgres</Owner>
+    </database>
+    <database id="6" parent="1" name="test_iss_database">
+      <ObjectId>40960</ObjectId>
+      <Owner>postgres</Owner>
+    </database>
+  </database-model>
+</dataSource>
