@@ -6,3 +6,17 @@
 2020-04-22T20:08:33,759 TRACE [main]: ClientController                     - addClient - method finished 
 2020-04-22T20:08:35,659 TRACE [main]: ClientController                     - getAllClients - method entered 
 2020-04-22T20:08:35,661 TRACE [main]: ClientController                     - getAllClients - method finished 
+2020-04-22T20:21:25,288 TRACE [main]: ClientController                     - getAllClients - method entered 
+2020-04-22T20:21:25,652 TRACE [main]: ClientController                     - getAllClients - method finished 
+2020-04-28T15:27:43,993 TRACE [main]: ClientController                     - getAllClients - method entered 
+2020-04-28T15:27:44,432 TRACE [main]: ClientController                     - getAllClients - method finished 
+2020-04-28T15:27:52,939 TRACE [main]: MovieController                      - getAllMovies - method entered 
+2020-04-28T15:27:53,007 TRACE [main]: MovieController                      - getAllMovies - method finished 
+2020-04-28T15:27:59,942 TRACE [main]: RentalController                     - getAllRentals - method entered 
+2020-04-28T15:28:00,024 TRACE [main]: RentalController                     - getAllRentals - method finished 
+2020-04-28T17:28:00,296 TRACE [main]: ClientController                     - getAllClients - method entered 
+2020-04-28T17:28:00,896 TRACE [main]: ClientController                     - getAllClients - method finished 
+2020-04-28T17:28:11,325 TRACE [main]: ClientController                     - deleteClient - method entered with id : 
+2020-04-28T17:28:11,444 TRACE [main]: ClientController                     - deleteClient - method finished 
+2020-04-28T17:28:15,309 TRACE [main]: ClientController                     - getAllClients - method entered 
+2020-04-28T17:28:15,314 TRACE [main]: ClientController                     - getAllClients - method finished 
