@@ -1,0 +1,21 @@
+package ro.ubb.catalog.core.Validators;
+
+import org.springframework.stereotype.Component;
+import ro.ubb.catalog.core.model.Movie;
+
+/**
+ * @author Rares.
+ */
+@Component
+public class MovieValidator implements Validator<Movie> {
+
+    @Override
+    public void validate(Movie movie) throws ValidatorException {
+
+        if(movie.getTitle().equals(""))
+            throw new ValidatorException("Empty Title!");
+
+        if(movie.getPrice()<0)
+            throw new ValidatorException("Negative price!");
+    }
+}

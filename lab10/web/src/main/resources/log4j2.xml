@@ -35,6 +35,8 @@
         <Logger name="org.springframework.http.converter.json" level="WARN"/>
         <Logger name="com.fasterxml.jackson.databind" level="WARN"/>
         <Logger name="webBase.controller.ClientController" level="TRACE"/>
+        <Logger name="webBase.controller.MovieController" level="TRACE"/>
+        <Logger name="webBase.controller.RentController" level="TRACE"/>
 
         <!-- ROOT -->
         <Root level="WARN">

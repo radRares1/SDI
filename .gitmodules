@@ -1,0 +1,3 @@
+[submodule "lab11/catalog-1-list-start/webapp"]
+	path = lab11/catalog-1-list-start/webapp
+	url = https://github.com/radRares1/SDI.git
